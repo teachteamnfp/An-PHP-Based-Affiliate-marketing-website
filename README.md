@@ -11,3 +11,5 @@
 Enjoy!
 
 Currently only COD (Cash on Delivery), has been implemented. Working on email delivery on purchase and payment gateway. Stay tuned for the updates.
+
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
